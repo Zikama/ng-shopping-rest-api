@@ -1,24 +1,18 @@
-<<<<<<< HEAD
+
 # ng-shopping-rest-api
+
+## Creates Login SubDirectory.
+## Ables User to signup and login .
 
 ## To Get Started
 
-```sh
-	npm i 
+```js
+npm i 
+// then
+npm run start
 ```
-<i>Then </i>
-
-```sh
-	npm run start 
+then Copy 
+```js 
+localhost:808/login/ 
+//into your browser 
 ```
-	OR
-```sh
-	npm run dev 
-```
-The Server should start on 
-```sh
-  localhost:808
-```
-=======
-# ng-shopping-rest-api
->>>>>>> 916e548de2d3efbb9cd4cbfa9d5e6c55c4b99eba
