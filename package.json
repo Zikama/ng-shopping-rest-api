@@ -1,0 +1,25 @@
+{
+  "name": "ng-shopping-rest-api",
+  "version": "1.0.0",
+  "description": "Nehemie & Gideon Shopping Rest Api",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zikama/ng-shopping-rest-api.git"
+  },
+  "keywords": [
+    "shop",
+    "online-shopping",
+    "api",
+    "restful-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zikama/ng-shopping-rest-api/issues"
+  },
+  "homepage": "https://github.com/Zikama/ng-shopping-rest-api#readme"
+}
