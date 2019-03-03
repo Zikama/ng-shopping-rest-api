@@ -2,7 +2,7 @@
 # ng-shopping-rest-api
 
 ## Creates Login SubDirectory.
-## Ables User to signup and login .
+## Enables User to signup and login .
 
 ## To Get Started
 
