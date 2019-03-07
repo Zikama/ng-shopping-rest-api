@@ -4,7 +4,9 @@
   "description": "Nehemie & Gideon Shopping Rest Api",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -16,10 +18,20 @@
     "api",
     "restful-api"
   ],
-  "author": "",
+  "author": "Gideon and Nehemie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zikama/ng-shopping-rest-api/issues"
   },
-  "homepage": "https://github.com/Zikama/ng-shopping-rest-api#readme"
+  "homepage": "https://github.com/Zikama/ng-shopping-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "ws": "^6.1.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "nodemon": "^1.18.10"
+  }
 }
